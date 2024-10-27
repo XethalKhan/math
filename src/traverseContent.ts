@@ -15,7 +15,7 @@ function createSlug(directory, file){
             //     file.indexOf('-') + 1,
             //     file.length
             // )
-            .slice(0, -3)
+            // .slice(0, -3)
     ).split('/');
 }
 
