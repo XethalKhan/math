@@ -6,7 +6,7 @@ import { remark } from 'remark';
 import html from 'remark-html';
 import remarkMath from 'remark-math'
 import remarkRehype from 'remark-rehype';
-import rehypeKatex from 'rehype-katex'
+import rehypeMathjax from 'rehype-mathjax/svg';
 import rehypeStringify from 'rehype-stringify'
 
 import traverseContent from '@/src/traverseContent';
@@ -27,11 +27,10 @@ export default async function Page({params}: { params: Promise<{ slug: string[] 
   const content = await remark()
     .use(html)
     .use(remarkMath)
-    .use(remarkMath)
     .use(remarkRehype)
-    .use(rehypeKatex)
+    .use(rehypeMathjax)
     .use(rehypeStringify)
-    .process(fileContents);
+    .process(fileContents.replaceAll("\\{", "\{").replaceAll("\\}", "\}"));
 
     return <div dangerouslySetInnerHTML={{ __html: content.toString() }} />;
 }
