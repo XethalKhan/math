@@ -15,3 +15,7 @@
 ## 4. Equation operations
 
 [Read more](./0004-equation-operations.md)
+
+## 5. Gauss method
+
+[Read more](./0005-gauss-method.md)
