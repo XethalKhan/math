@@ -1,1 +1,0 @@
-./../0002-systems-of-linear-equations/0005-gauss-method.md

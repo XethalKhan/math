@@ -19,3 +19,15 @@
 ## 5. Gauss method
 
 [Read more](./0005-gauss-method.md)
+
+## 6. Echelon form
+
+[Read more](./0006-echelon-form.md)
+
+## 7. Free variables
+
+[Read more](./0007-free-variables.md)
+
+## 8. Matrix
+
+[Read more](./0008-matrix.md)
