@@ -2,7 +2,7 @@
 
 ## 1. System of linear equations
 
-[Read more](./0001-system-of-linear-equations)
+[Read more](./0001-system-of-linear-equations.md)
 
 ## 2. Solution set of a system of linear equations
 

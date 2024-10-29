@@ -21,7 +21,11 @@ export function generateStaticParams(){
 export default async function Page({params}: { params: Promise<{ slug: string[] }> }){
     const { slug } = await params;
 
-    const fileContents = fs.readFileSync(`./content/${slug.join('/')}`, 'utf8');
+    const fileContents = fs.readFileSync(`./content/${slug.join('/')}`, 'utf8')
+      .replaceAll("\\{", "\{")
+      .replaceAll("\\}", "\}")
+      .replaceAll("]\\_", "]_")
+      .replaceAll("\\;", "\;");
 
   // Use remark to convert markdown into HTML string
   const content = await remark()
@@ -30,7 +34,7 @@ export default async function Page({params}: { params: Promise<{ slug: string[] 
     .use(remarkRehype)
     .use(rehypeMathjax)
     .use(rehypeStringify)
-    .process(fileContents.replaceAll("\\{", "\{").replaceAll("\\}", "\}"));
+    .process(fileContents);
 
     return <div dangerouslySetInnerHTML={{ __html: content.toString() }} />;
 }

@@ -2,7 +2,7 @@
 
 ## Definition
 
-The $m \times n$ matrices $A$ and $B$ are equal, written $A = B$ provided $[A]_{ij} = [B]_{ij}$ for all $1 \leq i \leq m, 1 \leq j \leq n$.
+The $m \times n$ matrices $A$ and $B$ are equal, written $A = B$ provided $[A]\_{ij} = [B]_{ij}$ for all $1 \leq i \leq m, 1 \leq j \leq n$.
 
 ## Reference
 
