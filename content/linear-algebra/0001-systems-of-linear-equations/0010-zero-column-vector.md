@@ -1,0 +1,1 @@
+./../0020-introduction-to-vectors/0002-zero-column-vector.md

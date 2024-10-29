@@ -2,7 +2,7 @@
 
 ## 1. System of linear equations
 
-[Read more](./0001-system-of-linear-equations.md)
+[Read more](./0001-system-of-linear-equations)
 
 ## 2. Solution set of a system of linear equations
 
@@ -31,3 +31,7 @@
 ## 8. Matrix
 
 [Read more](./0008-matrix.md)
+
+## 8. Column vector
+
+[Read more](./0009-column-vector.md)

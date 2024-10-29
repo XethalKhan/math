@@ -10,6 +10,6 @@
 
 ## 1. Systems of Linear Equations, their matrix representation and solving
 
-[Read more](./0002-systems-of-linear-equations/README.md)
+[Read more](./0001-systems-of-linear-equations/README.md)
 
 ## 2. Types of Solution Sets
