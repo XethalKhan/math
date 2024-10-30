@@ -24,3 +24,7 @@ A =
     a_{m1} & a_{m2} & \dots & a_{mn}
 \end{bmatrix}
 $$
+
+## Reference
+
+1. [linear.ups.edu - definition CM, section Reduced Row-Echelon form](http://linear.ups.edu/html/section-RREF.html)
