@@ -18,9 +18,9 @@ Our informal description of set equality highlights the basic fact that a set is
 
 Sets $A$ and $B$ are equal if and only if every element of $A$ is also an element of $B$ and every element of $B$ is also an element of $A$.
 
-Every set equals itself $A = A$ and $B = B$ (reflexive property)
-Given sets $A$ and $B$, if $A = B$ then $B = A$ (symmetric property)
-Given sets $A, B \text{ and } C$, if $A = B$ and $B = C$, then $A = C$ (transitive property)
+Every set equals itself $A = A$ and $B = B$ (reflexive property)  
+Given sets $A$ and $B$, if $A = B$ then $B = A$ (symmetric property)  
+Given sets $A, B \text{ and } C$, if $A = B$ and $B = C$, then $A = C$ (transitive property)  
 
 ## Formal definition (proposition logic)
 
