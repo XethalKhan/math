@@ -4,6 +4,7 @@ import fs from 'fs';
 
 import { remark } from 'remark';
 import html from 'remark-html';
+import remarkGfm from 'remark-gfm'
 import remarkMath from 'remark-math'
 import remarkRehype from 'remark-rehype';
 import rehypeMathjax from 'rehype-mathjax/svg';
@@ -29,6 +30,7 @@ export default async function Page({params}: { params: Promise<{ slug: string[] 
 
   // Use remark to convert markdown into HTML string
   const content = await remark()
+    .use(remarkGfm)
     .use(html)
     .use(remarkMath)
     .use(remarkRehype)
