@@ -33,3 +33,15 @@ Beginner friendly introduction
 ## 8. Conditional
 
 [Read more](./0008-conditional.md)
+
+## 9. Biconditional
+
+[Read more](./0009-biconditional.md)
+
+## 10. Selected equivalences of propositional calculus
+
+[Read more](./0010-selected-equivalences-of-propositional-calculus.md)
+
+## 11. Modus ponens
+
+[Read more](./0011-modus-ponens.md)

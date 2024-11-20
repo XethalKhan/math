@@ -17,3 +17,15 @@ Basic definitions and theorems needed for studying abstract algebra
 ## 4. GCD is a linear combination
 
 [Read more](./0004-gcd-is-a-linear-combination.md)
+
+## 5. Prime numbers
+
+[Read more](./0005-prime-numbers.md)
+
+## 6. Euclids lemma
+
+[Read more](./0006-euclids-lemma.md)
+
+## 7. First principle of mathematical induction
+
+[Read more](./0007-first-principle-of-mathematical-induction.md)
