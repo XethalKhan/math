@@ -29,3 +29,7 @@ Basic definitions and theorems needed for studying abstract algebra
 ## 7. First principle of mathematical induction
 
 [Read more](./0007-first-principle-of-mathematical-induction.md)
+
+## 8. Second principle of mathematical induction
+
+[Read more](./0008-second-principle-of-mathematical-induction.md)

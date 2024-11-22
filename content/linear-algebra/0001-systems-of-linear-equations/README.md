@@ -32,6 +32,18 @@
 
 [Read more](./0008-matrix.md)
 
-## 8. Column vector
+## 9. Column vector
 
 [Read more](./0009-column-vector.md)
+
+## 10. Zero column vector
+
+[Read more](./0010-zero-column-vector.md)
+
+## 11. Coefficient matrix
+
+[Read more](./0011-coefficient-matrix.md)
+
+## 17. Elementary row operations are reversible
+
+[Read more](./0017-elementary-row-operations-are-reversible.md)

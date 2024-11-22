@@ -45,3 +45,7 @@ Beginner friendly introduction
 ## 11. Modus ponens
 
 [Read more](./0011-modus-ponens.md)
+
+## 12. Selected implications of propositional calculus
+
+[Read more](./0012-selected-implications-of-propositional-calculus.md)
