@@ -33,3 +33,11 @@ Basic definitions and theorems needed for studying abstract algebra
 ## 8. Second principle of mathematical induction
 
 [Read more](./0008-second-principle-of-mathematical-induction.md)
+
+## 9. FUndamental theorem of Arithmetic
+
+[Read more](./0009-fundamental-theorem-in-arithmetics.md)
+
+## 10. Modular arithmetics
+
+[Read more](./0010-modular-arithmetics.md)
