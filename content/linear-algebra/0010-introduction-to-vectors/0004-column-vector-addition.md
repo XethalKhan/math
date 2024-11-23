@@ -33,29 +33,25 @@ v =
 $$
 
 $$
-u + v
-=
+u + v =
 \begin{bmatrix}
     2\\
     -3\\
     4\\
     2
-\end{bmatrix}
-+
+\end{bmatrix} +
 \begin{bmatrix}
     -1\\
     5\\
     2\\
     -7
-\end{bmatrix}
-=
+\end{bmatrix} =
 \begin{bmatrix}
     2 + (-1)\\
     -3 + 5\\
     4 + 2\\
     2 + (-7)
-\end{bmatrix}
-=
+\end{bmatrix} =
 \begin{bmatrix}
     1\\
     2\\

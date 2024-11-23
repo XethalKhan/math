@@ -29,8 +29,7 @@ $$
 end $\alpha = 6$, then
 
 $$
-\alpha u
-=
+\alpha u =
 6
 \begin{bmatrix}
     3\\
@@ -38,16 +37,14 @@ $$
     -2\\
     4\\
     -1
-\end{bmatrix}
-=
+\end{bmatrix} =
 \begin{bmatrix}
     6(3)\\
     6(1)\\
     6(-2)\\
     6(4)\\
     6(-1)
-\end{bmatrix}
-=
+\end{bmatrix} =
 \begin{bmatrix}
     18\\
     6\\
