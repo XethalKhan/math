@@ -9,7 +9,7 @@ Informally, to transpose a matrix is to build a new matrix by swapping its rows 
 Given an $m \times n$ matrix $A$, its transpose is the $n \times m$ matrix $A^t$ given by
 
 $$
-[A^t]_{ij} = [A]_{ji}, 1 \leq i \leq n, 1 \leq j \leq m
+[A^t]\_{ij} = [A]\_{ji}, 1 \leq i \leq n, 1 \leq j \leq m
 $$
 
 ## Example

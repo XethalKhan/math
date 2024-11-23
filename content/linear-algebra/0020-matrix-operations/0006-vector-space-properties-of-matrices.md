@@ -22,19 +22,19 @@ To prove Property Distributivity across Scalar Addition, $(\alpha + \beta) A = \
 For any $i$ and $j$, $1 \leq i \leq m, 1 \leq j \leq n$,
 
 $$
-[(\alpha + \beta)A]_{ij} = (\alpha + \beta)[A]_{ij} \text{ Definition Matrix scalar multiplication }
+[(\alpha + \beta)A]\_{ij} = (\alpha + \beta)[A]\_{ij} \text{ Definition Matrix scalar multiplication }
 $$
 
 $$
-= \alpha [A]_{ij} + \beta [A]_{ij} \text{ Distributivity in } \mathbb{C}
+= \alpha [A]\_{ij} + \beta [A]\_{ij} \text{ Distributivity in } \mathbb{C}
 $$
 
 $$
-= [\alpha A]_{ij} + [\beta A]_{ij} \text{ Definition Matrix scalar multiplication }
+= [\alpha A]\_{ij} + [\beta A]\_{ij} \text{ Definition Matrix scalar multiplication }
 $$
 
 $$
-= [\alpha A + \beta A]_{ij} \text{ Definition Matrix Addition }
+= [\alpha A + \beta A]\_{ij} \text{ Definition Matrix Addition }
 $$
 
 ## Reference
