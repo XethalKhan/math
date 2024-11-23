@@ -22,19 +22,19 @@ To prove Property Distributivity across Scalar Addition, $(\alpha + \beta) u = \
 For any $i$, $1 \leq i \leq m$,
 
 $$
-[(\alpha + \beta)u]_{i} = (\alpha + \beta)[u]_{i} \text{ Definition Column vector scalar multiplication }
+[(\alpha + \beta)u]\_{i} = (\alpha + \beta)[u]\_{i} \text{ Definition Column vector scalar multiplication }
 $$
 
 $$
-= \alpha [u]_{i} + \beta [u]_{i} \text{ Distributivity in } \mathbb{C}
+= \alpha [u]\_{i} + \beta [u]\_{i} \text{ Distributivity in } \mathbb{C}
 $$
 
 $$
-= [\alpha u]_{i} + [\beta u]_{i} \text{ Definition Column vector scalar multiplication }
+= [\alpha u]\_{i} + [\beta u]\_{i} \text{ Definition Column vector scalar multiplication }
 $$
 
 $$
-= [\alpha u + \beta u]_{i} \text{ Definition Column vector Addition }
+= [\alpha u + \beta u]\_{i} \text{ Definition Column vector Addition }
 $$
 
 Since the individual components of the vectors $(\alpha + \beta) u$ and $\alpha u + \beta u$ are equal for all $i, 1 \leq i \leq m$, definition [**Column vector equality**](./0003-column-vector-equality.md) tells us the vectors are equal.
