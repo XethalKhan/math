@@ -29,3 +29,15 @@ Beginner friendly introduction
 ## 7. Disjunction
 
 [Read more](./0007-disjunction.md)
+
+## 8. Conditional
+
+[Read more](./0008-conditional.md)
+
+## 9. Biconditional
+
+[Read more](./0009-biconditional.md)
+
+## 10. For every quantifier
+
+[Read more](./0010-for-every-quantifier.md)

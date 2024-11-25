@@ -7,8 +7,7 @@ $$
 \\;
 mod
 \\;
-2
-=
+2=
 1
 \\;\\;\\;
 \text{ since }
@@ -21,8 +20,7 @@ $$
 \\;
 mod
 \\;
-2
-=
+2=
 0
 \\;\\;\\;
 \text{ since }
@@ -35,8 +33,7 @@ $$
 \\;
 mod
 \\;
-3
-=
+3=
 2
 \\;\\;\\;
 \text{ since }
@@ -49,8 +46,7 @@ $$
 \\;
 mod
 \\;
-85
-=
+85=
 62
 \\;\\;\\;
 \text{ since }
@@ -63,8 +59,7 @@ $$
 \\;
 mod
 \\;
-15
-=
+15=
 13
 \\;\\;\\;
 \text{ since }
@@ -97,4 +92,4 @@ For two integers $a$ and $b$, we define **addition modulo $n$** to be $(a + b) \
 ## Reference
 
 1. Joseph A. Gallian, *Contemporary Abstract Algebra* (page 7)
-2. [abstract.pugetsound.edu section 3.1., sunsection The integers mod n](http://abstract.pugetsound.edu/aata/groups-section-mod-n-sym.html)
+2. [abstract.pugetsound.edu section 3.1., subsection The integers mod n](http://abstract.pugetsound.edu/aata/groups-section-mod-n-sym.html)
