@@ -51,8 +51,8 @@ S = x = \\{
 \begin{bmatrix}
     6 + x_2 - 3 x_5\\
     x_2\\
-    x_3 = 1 + 2 x_5\\
-    x_4 = 9 - 4 x_5\\
+    1 + 2 x_5\\
+    9 - 4 x_5\\
     x_5
 \end{bmatrix}
 | x_2, x_5 \in \mathbb{R}

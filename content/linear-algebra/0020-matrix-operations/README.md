@@ -40,3 +40,18 @@ Basic operations with matrices.
 
 [Read more](./0009-symmetric-matrix.md)
 
+## 10. Symmetric matrices are square
+
+[Read more](./0010-symmetrix-matrices-are-square.md)
+
+## 11. Transpose and matrix addition
+
+[Read more](./0011-transpose-and-matrix-addition.md)
+
+## 12. Transpose and Matrix Scalar Multiplication
+
+[Read more](./0012-transpose-and-matrix-scalar-multiplication.md)
+
+## 13. Transpose of a transpose
+
+[Read more](./0013-transpose-of-a-transpose.md)

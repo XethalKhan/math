@@ -1,6 +1,10 @@
-# Basic concepts of predicate logic'
+# Basic concepts of predicate logic
 
-Beginner friendly introduction
+Beginner friendly introduction.
+
+## Prerequisite
+
+1. [Basic concepts of propositional logic](./../0001-basic-concepts-of-propositional-logic/README.md)
 
 ## 1. Predicate
 
@@ -41,3 +45,11 @@ Beginner friendly introduction
 ## 10. For every quantifier
 
 [Read more](./0010-for-every-quantifier.md)
+
+## 11. There exists quantifier
+
+[Read more](./0011-there-exists-quantifier.md)
+
+## 12. Equivalences involving compound predicates
+
+[Read more](./0012-equivalences-with-compound-predicates.md)

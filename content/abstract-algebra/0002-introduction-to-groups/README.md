@@ -19,3 +19,15 @@
 ## 5. The inverse of an element in a group is unique
 
 [Read more](./0005-inverse-of-element-in-a-group-is-unique.md)
+
+## 6. Socks-shoe property
+
+[Read more](./0006-socks-shoe-property.md)
+
+## 7. Inverse of an inverse element
+
+[Read more](./0007-inverse-of-an-inverse.md)
+
+## 8. Existance and uniqueness of solutions of equations in groups
+
+[Read more](./0008-existance-and-uniqueness-of-solutions-of-equations-in-groups.md)
