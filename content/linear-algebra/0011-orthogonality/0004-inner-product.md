@@ -82,7 +82,7 @@ $$
 
 ## Note
 
-In the case where the entries of our vectors are all real numbers (as in the second part of example), the computation of the inner product may look familiar and be known to you as a **dot product** or **scalar product**. So you can view the inner product as a generalization of the scalar product to vectors from $\mathbb{C}^m$ (rather than $\mathbb{R}^m).
+In the case where the entries of our vectors are all real numbers (as in the second part of example), the computation of the inner product may look familiar and be known to you as a **dot product** or **scalar product**. So you can view the inner product as a generalization of the scalar product to vectors from $\mathbb{C}^m$ (rather than $\mathbb{R}^m$).
 
 Note that we have chosen to conjugate the entries of the first vector listed in the inner product, while it is almost equally feasible to conjugate entries from the second vector instead.
 

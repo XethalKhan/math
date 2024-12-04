@@ -31,3 +31,11 @@
 ## 8. Existance and uniqueness of solutions of equations in groups
 
 [Read more](./0008-existance-and-uniqueness-of-solutions-of-equations-in-groups.md)
+
+## 9. Exponential notation in groups
+
+[Read more](./0009-exponential-notation-in-groups.md)
+
+## 10. Laws of exponents in groups
+
+[Read more](./0010-laws-of-exponents-in-groups.md)
