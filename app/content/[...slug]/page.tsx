@@ -26,6 +26,7 @@ export default async function Page({params}: { params: Promise<{ slug: string[] 
       .replaceAll("\\{", "\{")
       .replaceAll("\\}", "\}")
       .replaceAll("]\\_", "]_")
+      .replaceAll("}\\_", "}_")
       .replaceAll("\\;", "\;");
 
   // Use remark to convert markdown into HTML string

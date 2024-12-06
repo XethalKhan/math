@@ -8,4 +8,4 @@ $$
 
 ## Reference
 
-1. [linear.ups.edu - definition CRMA, section Matrix operations](http://linear.ups.edu/html/section-MO.html)
+1. [linear.ups.edu - definition CCM, section Matrix operations](http://linear.ups.edu/html/section-MO.html)

@@ -36,8 +36,7 @@ $$
 $$
 
 $$
-=
-\overline{⟨v, u⟩}
+= \overline{⟨v, u⟩}
 \\;\\;\\;
 \text{ Definition Inner Product }
 $$

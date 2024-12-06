@@ -1,5 +1,5 @@
 1. COnsider adding metadata into .MD files with "gray-matter" package (https://nextjs.org/learn-pages-router/basics/data-fetching/blog-data)
 
-2. Add all .MD rendering specific rules from github into code like 
+2. FOr content/linear-algebra/0011-orthogonality/0014-orthogonal-sets-are-linearly-independent.md we need to be aware of **Relation of Linear Independence** before this theorem. Put definition of linear independence before this theorem, somewhere. Probably best with content/linear-algebra/0002-types-of-solution-sets to use for **particular + homogenous solution**
 
-fileContents.replaceAll("\\{", "\{").replaceAll("\\}", "\}")
+3. Finish proof of content/linear-algebra/0001-systems-of-linear-equations/0023-rrfu-is-unique.md

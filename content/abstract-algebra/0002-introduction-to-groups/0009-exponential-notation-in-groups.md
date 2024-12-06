@@ -3,7 +3,7 @@
 If $G$ is a group and $g \in G$, then we define $g^{0} = e$. For $n \in \mathbb{N}$, we define
 
 $$
-g^{n} = \underbrace{g \circ g \circ \dots \circ g}_{n \text{ times}}
+g^{n} = \underbrace{g \circ g \circ \dots \circ g}\_{n \text{ times}}
 \\;\\;\\;
 \text{ and }
 \\;\\;\\;
