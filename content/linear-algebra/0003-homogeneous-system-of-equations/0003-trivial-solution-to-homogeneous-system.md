@@ -8,7 +8,7 @@ Homogeneous system
 
 $$
 \displaylines{
-- 7 x_1 - 6 x_2 - 12 x_3 = 0\\
+-7 x_1 - 6 x_2 - 12 x_3 = 0\\
 5 x_1 + 5 x_2 + 7 x_3 = 0\\
 x_1 + 4 x_3 = 0
 }

@@ -54,8 +54,7 @@ d & −b\\
 ad −bc & 0\\
 0 & ad − bc
 \end{bmatrix}
-=
-\begin{bmatrix}
+= \begin{bmatrix}
 1 & 0\\
 0 & 1
 \end{bmatrix}
@@ -89,8 +88,7 @@ c & d
 e & f\\
 g & h
 \end{bmatrix}
-=
-\begin{bmatrix}
+= \begin{bmatrix}
 ae + bg & af + bh\\
 ce + dg & cf + dh
 \end{bmatrix}
@@ -103,8 +101,7 @@ $$
 c & 0\\
 0 & a
 \end{bmatrix}
-=
-\begin{bmatrix}
+= \begin{bmatrix}
 ace + bcg & acf + bch\\
 ace + adg & acf + adh
 \end{bmatrix}
@@ -117,8 +114,7 @@ $$
 c & 0\\
 0 & a
 \end{bmatrix}
-=
-\begin{bmatrix}
+= \begin{bmatrix}
 ace + bcg & acf + bch\\
 ace + bcg & acf + bch
 \end{bmatrix}
@@ -135,13 +131,11 @@ $$
 \end{bmatrix}
 = I_2
 = AB
-=
-\begin{bmatrix}
+= \begin{bmatrix}
 ae + bg & af + bh\\
 ce + dg & cf + dh
 \end{bmatrix}
-=
-\begin{bmatrix}
+= \begin{bmatrix}
 bg & bh\\
 dg & dh
 \end{bmatrix}

@@ -23,8 +23,7 @@ $$
 $$
 
 $$
-=
-\overline{(\sum_{i=1}^{m} [u]\_i \overline{[v]\_i})}
+= \overline{(\sum_{i=1}^{m} [u]\_i \overline{[v]\_i})}
 \\;\\;\\;
 \text{ Theorem Complex Conjugate Respects Addition }
 $$
