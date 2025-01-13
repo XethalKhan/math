@@ -4,6 +4,8 @@ The null space of a matrix $A$, denoted $N(A)$, is the set of all the vectors th
 
 Null space is a property of the **coefficient matrix**, not a property of some system of equations.
 
+The set of solutions to a **homogeneous system** (which is never empty) is of enough interest to warrant its own name. However, we define it as a property of the **coefficient matrix**, not as property of some system of equations.
+
 ## Example
 
 Let us compute the null space of

@@ -8,6 +8,26 @@
 
 [Read more](./0002-basic-operations/README.md)
 
-## 3. ALgebraic properties of sets
+## 3. Algebraic properties of sets
 
 [Read more](./0003-algebraic-properties-of-sets/README.md)
+
+## 4. Basic theorems and identities of sets
+
+[Read more](./0004-basic-theorems-and-identities-of-sets/README.md)
+
+## 5. Collection of sets
+
+[Read more](./0005-collection-of-sets/README.md)
+
+## 6. Relations
+
+[Read more](./0006-relations/README.md)
+
+## 7. Equivalence relation
+
+[Read more](./0007-equivalence-relation/README.md)
+
+## 8. Partial ordering
+
+[Read more](./0008-partial-ordering/README.md)

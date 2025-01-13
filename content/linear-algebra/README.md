@@ -13,3 +13,13 @@
 [Read more](./0001-systems-of-linear-equations/README.md)
 
 ## 2. Types of Solution Sets
+
+[Read more](./0002-types-of-solution-sets/README.md)
+
+## 3. Homogeneous system of equations
+
+[Read more](./0003-homogeneous-system-of-equations/README.md)
+
+## 4. Nonsingular matrix
+
+[Read more](./0004-nonsingular-matrix/README.md)

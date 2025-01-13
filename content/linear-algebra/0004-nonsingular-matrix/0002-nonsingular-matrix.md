@@ -4,6 +4,8 @@ Suppose $A$ is a **square matrix**. Suppose further that the solution set to the
 
 We can investigate whether any square matrix is nonsingular or not, no matter if the matrix is derived somehow from a system of equations or if it is simply a matrix. The definition says that to perform this investigation we must construct a very specific system of equations (homogeneous, with the matrix as the coefficient matrix) and look at its solution set.
 
+Notice that it makes no sense to call a system of equations nonsingular (the term does not apply to a system of equations), nor does it make any sense to call a $5 \times 7$ matrix singular (the matrix is not square).
+
 ## Example - singular matrix
 
 $$

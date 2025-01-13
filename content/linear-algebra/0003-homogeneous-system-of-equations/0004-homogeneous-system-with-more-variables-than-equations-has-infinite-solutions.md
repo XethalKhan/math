@@ -4,7 +4,45 @@ Suppose that a homogeneous system of linear equations has $m$ equations and $n$ 
 
 ## Proof
 
-We are assuming the system is homogeneous, so theorem [**Homogeneous Systems are Consistent**](./0002-homogeneous-systems-are-consistent.md) says it is consistent. Then the hypothesis that $n \gt m$, together with theorem [**Consistent system with more variables than equations has infinite solutions**](./../0002-types-of-solution-sets/0007-consistent-system-with-more-variables-than-equations-has-infinite-solutions.md), gives infinitely many solutions.
+$$
+p = \text{ system is homogeneous }
+$$
+
+$$
+q = n \gt m
+$$
+
+$$
+r = \text{ system has infinitely many solutions }
+$$
+
+We want to prove $p \land q \rightarrow r$
+
+We are assuming the system is homogeneous ($p = T$), so theorem [**Homogeneous Systems are Consistent**](./0002-homogeneous-systems-are-consistent.md) says it is consistent. Then the hypothesis that $n \gt m$ ($q = T$), together with theorem [**Consistent system with more variables than equations has infinite solutions**](./../0002-types-of-solution-sets/0007-consistent-system-with-more-variables-than-equations-has-infinite-solutions.md), gives infinitely many solutions.
+
+$$
+p = T
+$$
+
+$$
+s = \text{ Homogeneous Systems are Consistent } = T
+$$
+
+$$
+t = p \land s = \text{ system is consistent }
+$$
+
+$$
+q = T
+$$
+
+$$
+u = \text{ Consistent system with more variables than equations has infinite solutions } = T
+$$
+
+$$
+t \land q \land u \rightarrow r
+$$
 
 ## Reference
 

@@ -9,3 +9,7 @@ $$
 $$
 
 provided we can make $f(x)$ as close to $L$ as we want for all $x$ sufficiently close to $a$, from both sides, without actually letting $x$ be $a$.
+
+## Reference
+
+1. [Paul's online notes - Calculus I - Limits - The Limit](https://tutorial.math.lamar.edu/Classes/CalcI/TheLimit.aspx)

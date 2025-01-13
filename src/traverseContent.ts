@@ -4,7 +4,7 @@ import FS from "fs";
 // const postsDirectory = Path.join(process.cwd(), 'content');
 
 function createSlug(directory, file){
-    return Path.join(
+    let result = Path.join(
         directory
             .substring(
                 directory.indexOf('/') + 1,
@@ -17,6 +17,12 @@ function createSlug(directory, file){
             // )
             // .slice(0, -3)
     ).split('/');
+
+    if(result[0] === 'content'){
+        result.shift();
+    }
+
+    return result;
 }
 
 export default function traverseContent(Directory: string){

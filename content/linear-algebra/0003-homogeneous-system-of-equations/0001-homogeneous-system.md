@@ -12,6 +12,8 @@ $$
 }
 $$
 
+Setting each variable to zero will always be a solution of a **homogeneous system**.
+
 ## Reference
 
 1. [linear.ups.edu - definition HS, section Homogeneous Systems of Equations](http://linear.ups.edu/html/section-HSE.html)

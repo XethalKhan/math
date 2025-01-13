@@ -13,14 +13,14 @@ The null space of a square matrix, $A$, is equal to the set of solutions to the 
 $$
 A =
 \begin{bmatrix}
-    1 & -1 & 2\\
+    1 & - 1 & 2\\
     2 & 1 & 1\\
     1 & 1 & 0
 \end{bmatrix}
 \\;\\;\\;\\;\\;
 N(A) = \\{
 \begin{bmatrix}
-- x_3\\
+-x_3\\
 x_3\\
 x_3
 \end{bmatrix}

@@ -23,3 +23,7 @@ Review [basic concept](/content/set-theory/0001-basic-concepts/README.md) and [b
 ## 5. Continuity of probabilities
 
 [Read more](./0005-continuity-of-probabilities.md)
+
+## 6. Uniform probability distribution
+
+[Read more](./0006-uniform-probability-distribution.md)
