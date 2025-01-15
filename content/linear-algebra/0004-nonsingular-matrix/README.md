@@ -20,6 +20,6 @@
 
 [Read more](./0005-nonsingular-matrices-have-trivial-null-spaces.md)
 
-## 6. Nonsingular matrices and unique solutions
+## 6. Nonsingular matrices have unique solutions
 
-[Read more](./0006-nonsingular-matrices-and-unique-solutions.md)
+[Read more](./0006-nonsingular-matrices-have-unique-solutions.md)

@@ -23,3 +23,24 @@
 ## 4. Nonsingular matrix
 
 [Read more](./0004-nonsingular-matrix/README.md)
+
+
+## 10. Introduction to vectors
+
+[Read more](./0010-introduction-to-vectors/README.md)
+
+## 50. Vector spaces
+
+[Read more](./0050-vector-spaces/README.md)
+
+## 51. Subspaces
+
+[Read more](./0051-subspaces/README.md)
+
+## 52. Linear combinations
+
+[Read more](./0052-linear-combinations/README.md)
+
+## 53. Span of a set
+
+[Read more](./0053-span-of-a-set/README.md)

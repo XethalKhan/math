@@ -1,6 +1,6 @@
 # Column vector equality
 
-Suppose that $u, v \in \mathbb{C}^m$. Then $u$ and $v$ are equal, written $u = v$ if
+Suppose that $u, v \in \mathbb{C}^m$. Then $u$ and $v$ are **equal**, written $u = v$ if
 
 $$
 [u]_i = [v]_i

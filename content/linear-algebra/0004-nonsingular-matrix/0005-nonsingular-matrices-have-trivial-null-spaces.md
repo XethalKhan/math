@@ -6,6 +6,24 @@ Suppose that $A$ is a **square matrix**. Then $A$ is **nonsingular** if and only
 
 The null space of a square matrix, $A$, is equal to the set of solutions to the homogeneous system, $LS(A, 0)$. A matrix is nonsingular if and only if the set of solutions to the homogeneous system, $LS(A, 0)$, has only a trivial solution. These two observations may be chained together to construct the two proofs necessary for each half of this theorem.
 
+$$
+p: N(A) = \\{ 0 \\}
+$$
+
+$$
+q: A \text{ is nonsingular }
+$$
+
+prove that $p \leftrightarrow q$
+
+### $p \rightarrow q$
+
+Let $N(A) = \\{ 0 \\}$. The null space of a square matrix $A, N(A)$ is equal to the set of solutions to the **homogeneous system** $LS(A, 0)$. By definition of [**nonsingular matrix**](./0002-nonsingular-matrix.md), matrix is nonsingular if and only if the set of solutions to the homogeneous system $LS(A, 0)$ has only a trivial solution. Then $A$ is nonsingular.
+
+### $p \leftarrow q$
+
+Let $A$ be nonsingular matrix. By definition of [**nonsingular matrix**](./0002-nonsingular-matrix.md), matrix is nonsingular if and only if the set of solutions to the homogeneous system $LS(A, 0)$ has only a trivial solution. The null space of a square matrix $A, N(A)$ is equal to the set of solutions to the homogeneous system $LS(A, 0)$. Then $N(A) = \\{ 0 \\}$.
+
 ## Examples
 
 ### Singular matrix

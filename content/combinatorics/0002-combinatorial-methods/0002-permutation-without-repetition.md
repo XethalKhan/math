@@ -10,6 +10,16 @@ $$
 n (n - 1) \dots (n - r + 1) = \frac{n!}{(n - r)!}
 $$
 
+## Definition using sets
+
+Let $S$ be a **set** of $n$ elements. Let $r \in \mathbb{N}: r \leq n$.
+
+The number of **$r$-permutations** of $S$ is
+
+$$
+P^n_r = \frac{n!}{(n − r)!}
+$$
+
 ## Proof
 
 There are $n$ elements, so there are $n$ options for the first element.
@@ -74,10 +84,6 @@ P^{4}_{2} = 4 \times 3 = \frac{4!}{2!} = \frac{24}{2} = 12
 $$
 
 Result: AB, AC, AD, BA, BC, BD, CA, CB, CD, DA, DB, DC
-
-## TODO
-
-Review after defining **product rule**
 
 ## Reference
 

@@ -28,3 +28,7 @@ Basic column vector operations
 
 [Read more](./0006-vector-space-of-column-vectors.md)
 
+## 7. Vector space properties of column vectors
+
+[Read more](./0007-vector-space-properties-of-column-vectors.md)
+

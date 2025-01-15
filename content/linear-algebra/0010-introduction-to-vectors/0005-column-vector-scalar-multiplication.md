@@ -54,6 +54,8 @@ $$
 \end{bmatrix}
 $$
 
+This operation takes two objects of different types, specifically a number and a vector, and combines them to create another vector. In this context we call a number a **scalar** in order to emphasize that it is not a **vector**.
+
 ![Column vector scalar multiplication](https://upload.wikimedia.org/wikipedia/commons/1/1b/Scalar_multiplication_of_vectors2.svg)
 
 The scalar multiplications $−a$ and $2 a$ of a vector $a$.

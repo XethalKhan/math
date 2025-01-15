@@ -7,7 +7,7 @@ Suppose that $\mathbb{C}^m$ is the set of column vectors of size $m$ (Definition
 3. Commutativity - If $u, v \in \mathbb{C}^m$, then $u + v = v + u$.
 4. Additive Associativity - If $u, v, w \in \mathbb{C}^m$, then $u + (v + w) = (u + v) + w$.
 5. Zero Column vector - There is a vector, $0$, called the **zero column vector**, such that $u + 0 = u$ for all $u \in \mathbb{C}^m$.
-6. Additive Inverses - If $u \in \mathbb{C}^m$, then there exists a matrix $−u \in \mathbb{C}^m$ so that $u + (−u) = 0$.
+6. Additive Inverses - If $u \in \mathbb{C}^m$, then there exists a vector $−u \in \mathbb{C}^m$ so that $u + (−u) = 0$.
 7. Scalar Multiplication Associativity - If $\alpha, \beta \in \mathbb{C}$ and $u \in \mathbb{C}^m$, then $\alpha(\beta u) = (\alpha \beta)u$.
 8. Distributivity across Matrix Addition - If $\alpha \in \mathbb{C}$ and $u, v \in \mathbb{C}^m$, then $\alpha (u + v) = \alpha u + \alpha v$.
 9. Distributivity across Scalar Addition - If $\alpha, \beta \in \mathbb{C}$ and $u \in \mathbb{C}^m$, then $(\alpha + \beta) u = \alpha u + \beta u$.
