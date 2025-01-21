@@ -31,3 +31,7 @@
 ## 8. Partial ordering
 
 [Read more](./0008-partial-ordering/README.md)
+
+## 9. Functions
+
+[Read more](./0009-functions/README.md)

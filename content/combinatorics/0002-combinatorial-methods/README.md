@@ -11,3 +11,11 @@
 ## 3. Permutation with repetition
 
 [Read more](./0003-permutation-with-repetition.md)
+
+## 4. Combinations without repetition
+
+[Read more](./0004-combinations-without-repetition.md)
+
+## 5. Binomial coefficient
+
+[Read more](./0005-binomial-coefficient.md)

@@ -1,6 +1,6 @@
 # Composition of functions is associative
 
-If $f, g \text{ and } h$ are *8functions**, then $f \circ (g \circ h) = (f \circ g) \circ h$.
+If $f, g \text{ and } h$ are **functions**, then $f \circ (g \circ h) = (f \circ g) \circ h$.
 
 ## Proof
 

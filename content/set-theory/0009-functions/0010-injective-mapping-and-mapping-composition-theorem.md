@@ -22,7 +22,7 @@ Since $g$ and $h$ both have **domain** $W$, we need only show $g(w) = h(w)$ for 
 
 ### 2. $p \leftarrow q$
 
-We will do a proof by contrapositive $\neg q \rightarrow \neg p$.
+We will do a proof by contrapositive $\neg p \rightarrow \neg q$.
 
 We begin by assuming $f$ is **not** one-to-one.
 

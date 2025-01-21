@@ -5,7 +5,7 @@ Suppose that $V$ is a **vector space** and $u \in V$. Then $- u = (- 1) u$.
 ## Proof
 
 $$
-- u = - u + 0
+-u = - u + 0
 \\;\\;\\;
 \text{ Property 5 of Vector space - Zero vector }
 $$

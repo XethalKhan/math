@@ -27,3 +27,7 @@ Review [basic concept](/content/set-theory/0001-basic-concepts/README.md) and [b
 ## 6. Uniform probability distribution
 
 [Read more](./0006-uniform-probability-distribution.md)
+
+## 7. Independent events
+
+[Read more](./0007-independent-events.md)

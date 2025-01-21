@@ -39,3 +39,43 @@
 ## 10. Injective mapping and mapping composition theorem
 
 [Read more](./0010-injective-mapping-and-mapping-composition-theorem.md)
+
+## 11. Surjection
+
+[Read more](./0011-surjection.md)
+
+## 12. Surjective mapping and mapping composition theorem
+
+[Read more](./0012-surjective-mapping-and-mapping-composition-theorem.md)
+
+## 13. Properties of function composition with injection and surjection
+
+[Read more](./0013-properties-of-function-composition-with-injection-and-surjection.md)
+
+## 14. Bijection
+
+[Read more](./0014-bijection.md)
+
+## 15. Properties of function composition with bijection
+
+[Read more](./0015-properties-of-function-composition-with-bijection.md)
+
+## 16. Properties of bijection and identity mapping
+
+[Read more](./0016-properties-of-bijection-and-identity-mapping.md)
+
+## 17. Image
+
+[Read more](./0017-image.md)
+
+## 18. Properties of image and inverse image
+
+[Read more](./0018-properties-of-image-and-inverse-image.md)
+
+## 19. Properties of image and inverse image combinations
+
+[Read more](./0019-properties-of-image-and-inverse-image-combinations.md)
+
+## 20. Properties of image and set operations
+
+[Read more](./0020-properites-of-image-and-set-operations.md)

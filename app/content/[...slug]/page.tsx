@@ -39,5 +39,5 @@ export default async function Page({params}: { params: Promise<{ slug: string[] 
     .use(rehypeStringify)
     .process(fileContents);
 
-    return <div dangerouslySetInnerHTML={{ __html: content.toString() }} />;
+    return <div id="content" dangerouslySetInnerHTML={{ __html: content.toString() }} />;
 }

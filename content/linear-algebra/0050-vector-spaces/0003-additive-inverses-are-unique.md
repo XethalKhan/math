@@ -7,7 +7,7 @@ Suppose that $V$ is a **vector space**. For each $u \in V$, the **additive inver
 To prove uniqueness, a standard technique is to suppose the existence of two objects. So let $-u_1$ and $-u_2$ be two additive inverses for $u$. Then
 
 $$
-- u_1 = - u_1 + 0
+-u_1 = - u_1 + 0
 \\;\\;\\;
 \text{ Property 5 of Vector space - Zero vector }
 $$

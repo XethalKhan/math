@@ -28,11 +28,11 @@ function createSlug(directory, file){
 export default function traverseContent(Directory: string){
     let Files  = [];
 
-    const ThroughDirectory = (Directory) => {
+    const traverseDirectory = (Directory) => {
         FS.readdirSync(Directory).forEach(File => {
             const Absolute = Path.join(Directory, File);
             const Slug = createSlug(Directory, File);
-            if (FS.statSync(Absolute).isDirectory()) return ThroughDirectory(Absolute);
+            if (FS.statSync(Absolute).isDirectory()) return traverseDirectory(Absolute);
             else return Files.push({
                 // path: Absolute.substring(Absolute.indexOf('/') + 1, Absolute.length),
                 slug: Slug
@@ -40,7 +40,7 @@ export default function traverseContent(Directory: string){
         });
     }
 
-    ThroughDirectory(Directory);
+    traverseDirectory(Directory);
 
     return Files;
 }

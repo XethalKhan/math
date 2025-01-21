@@ -14,3 +14,7 @@
 
 [Read more](./combinatorics/README.md)
 
+## 20. Statistics
+
+[Read more](./statistics/README.md)
+

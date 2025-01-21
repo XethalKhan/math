@@ -44,3 +44,11 @@
 ## 53. Span of a set
 
 [Read more](./0053-span-of-a-set/README.md)
+
+## 54. Linear dependence
+
+[Read more](./0054-linear-dependence/README.md)
+
+## 55. Bases
+
+[Read more](./0055-bases/README.md)
