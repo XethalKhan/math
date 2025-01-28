@@ -10,6 +10,10 @@
 
 [Read more](./linear-algebra/README.md)
 
+## 6. Calculus
+
+[Read more](./calculus/README.md)
+
 ## 10. Combinatorics
 
 [Read more](./combinatorics/README.md)

@@ -12,4 +12,27 @@ body {
         background-color: red;
         text-align: center;
     };
+
+    p:has(img) {
+        text-align: center;
+    }
+
+    table {
+        border-collapse: collapse;
+        border: 1px solid red;
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+
+        tr th {
+            border: 1px solid red;
+            min-width: 100px;
+            max-width: 20%;
+        }
+
+        tr td {
+            border: 1px solid red;
+            max-width: 20%;
+        }
+    }
 }
