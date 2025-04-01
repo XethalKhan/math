@@ -11,6 +11,8 @@ The Intermediate Value Theorem tells us that a function will take the value of $
 
 ## TODO - image graph and example 5
 
+![Intermediate value theorem](https://upload.wikimedia.org/wikipedia/commons/8/83/Illustration_for_the_intermediate_value_theorem.svg)
+
 ## Reference
 
 1. [Paul's online notes - Calculus I - Limits - Continuity](https://tutorial.math.lamar.edu/Classes/CalcI/Continuity.aspx)

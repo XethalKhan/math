@@ -23,3 +23,11 @@
 ### 1001. Derivative
 
 [Read more](./1001-derivatives/README.md)
+
+### 1002. Applications of derivatives
+
+[Read more](./1002-applications-of-derivatives/README.md)
+
+### 1003. Integrals
+
+[Read more](./1003-integrals/README.md)

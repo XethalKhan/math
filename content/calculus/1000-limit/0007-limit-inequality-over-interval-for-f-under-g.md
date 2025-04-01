@@ -6,7 +6,7 @@ $$
 \lim\limits_{x \rightarrow c} f(x) \leq \lim\limits_{x \rightarrow c} g(x)
 $$
 
-Note that this fact should make some sense to you if we assume that both functions are **nice enough**. If both of the functions are “nice enough” to use the limit evaluation fact then we have,
+Note that this fact should make some sense to you if we assume that both functions are **nice enough / continuous**. If both of the functions are “nice enough” to use the limit evaluation fact then we have,
 
 $$
 \lim\limits_{x \rightarrow c} f(x) = f(c) \leq g(c) = \lim\limits_{x \rightarrow c} g(x)

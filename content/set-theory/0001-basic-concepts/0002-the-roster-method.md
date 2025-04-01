@@ -12,7 +12,7 @@ $$
 B = \\{\text{Massachusetts}, \text{Michigan}, \text{California}\\}
 $$
 
-The order in which elemenmts are listed is irrelevant. An object should be listed only once in the roster, since listing it more than once does not change the set.
+The order in which elements are listed is irrelevant. An object should be listed only once in the roster, since listing it more than once does not change the set.
 
 $$
 \\{1, 1, 2\\} = \\{1, 2\\} \\;\\;\\;\\; 5 \notin A \\;\\;\\;\\; Ohio \notin B

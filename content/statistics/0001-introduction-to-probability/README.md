@@ -31,3 +31,7 @@ Review [basic concept](/content/set-theory/0001-basic-concepts/README.md) and [b
 ## 7. Independent events
 
 [Read more](./0007-independent-events.md)
+
+## 8. Conditional probability
+
+[Read more](./0008-conditional-probability.md)

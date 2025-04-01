@@ -2,7 +2,7 @@
 
 If $p(x)$ is a propositional function with variable $x$ and domain of discourse $U$, then:
 
-The sentence **there exists** $x, p(x)$, symbolized $(\exists x)(p(x))$ is a **proposition** that is true if and only if the truth set $P$ of $p(x)$ is nonemtpy:
+The sentence **there exists** $x, p(x)$, symbolized $(\exists x)(p(x))$ is a **proposition** that is true if and only if the truth set $P$ of $p(x)$ is nonempty:
 
 $$
 (\exists x)(x^2 = 4) = T

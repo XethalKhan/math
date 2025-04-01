@@ -26,7 +26,7 @@ Suppose $[x] \cap [y] \neq \emptyset$, so there exists $z \in [x] \cap [y]$. We 
 
 To show $[x] \subseteq [y]$, suppose $w \in [x]$. To conclude $w \in [y]$, we must prove $y R w$. Since $z \in [x]$, we have $x R z$. Since $z \in [y]$, we have $y R z$. Since $w \in [x]$, we have $x R w$. Since $x R z$, then by symmetry $z R x$. Then since $y R z$ and $z R x$, we have $y R x$ by transitivity. Finally, since $y R x$ and $x R w$, we have by transitivity $y R w$, our desired result. Hence $[x] \subseteq [y]$.
 
-To show $[y] \subseteq [x]$, suppose $w \in [y]$. To conclude $w \in [x]$, we must prove $x R w$. Since $z \in [x]$, we have $x R z$. Since $z \in [y]$, we have $y R z$. Since $w \in [y]$, we have $x R y$. Since $y R z$, then by symmetry $z R y$. Then since $x R z$ and $z R y$, we have $x R y$ by transitivity. Finally, since $x R y$ and $y R w$, we have by transitivity $x R w$, our desired result. Hence $[y] \subseteq [x]$.
+To show $[y] \subseteq [x]$, suppose $w \in [y]$. To conclude $w \in [x]$, we must prove $x R w$. Since $z \in [x]$, we have $x R z$. Since $z \in [y]$, we have $y R z$. Since $w \in [y]$, we have $y R w$. Since $y R z$, then by symmetry $z R y$. Then since $x R z$ and $z R y$, we have $x R y$ by transitivity. Finally, since $x R y$ and $y R w$, we have by transitivity $x R w$, our desired result. Hence $[y] \subseteq [x]$.
 
 ### 3. $\bigcup ([x] | x \in A) = A$
 

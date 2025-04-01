@@ -4,7 +4,7 @@
 
 Suppose we have a system of $m$ equations in $n$ variables with **coefficient matrix $A$** and **vector of constants $b$**. Then the **augmented matrix** of the system of equations is the $m \times (n + 1)$ matrix whose first $n$ columns are the columns of $A$ and whose last column $n + 1$ is the column vecotr $b$. This matrix will be written as $[A | b]$.
 
-The augmented matrix represents all the important information in the system of equations, since the names of the variables have been ignored, and the only connection with the variables is the location of their coefficients in the matrix. It is important to realize that the augmented matrix is just that, a **matrix** and not a system of equations. In particualr, the augmented matrix does not have any solutions, though it will be usefull for finding solutions to the system of equations that it is associated with.
+The augmented matrix represents all the important information in the system of equations, since the names of the variables have been ignored, and the only connection with the variables is the location of their coefficients in the matrix. It is important to realize that the augmented matrix is just that, a **matrix** and not a system of equations. In particular, the augmented matrix does not have any solutions, though it will be usefull for finding solutions to the system of equations that it is associated with.
 
 For the following system of equations
 

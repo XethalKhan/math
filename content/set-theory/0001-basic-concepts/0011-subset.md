@@ -62,11 +62,13 @@ A = \\{1, 2, 3\\}
 \text{are false}
 $$
 
-There is a special danger of confusion in dealing with the subset relationship in connection with **the empty set** $\emptyset$. Consider the question whether $\emptyset \in A$ and/or $\emptyset \subseteq A$, where $A = \\{1, 2, 3\\}$
-
 ## Formal definition
 
 We say that **A is a subset of B** ($A \subseteq B$) if and only if statement $(\forall x)((x \in A) \to (x \in B))$ is true.
+
+## Note
+
+There is a special danger of confusion in dealing with the subset relationship in connection with **the empty set** $\emptyset$. Consider the question whether $\emptyset \in A$ and/or $\emptyset \subseteq A$, where $A = \\{1, 2, 3\\}$
 
 ## Reference
 

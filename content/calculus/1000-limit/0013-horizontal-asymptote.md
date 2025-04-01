@@ -7,3 +7,7 @@ $$
 \\;\\;\\;
 \lim\limits_{x \rightarrow - \infty} f(x) = L
 $$
+
+## Reference
+
+1. [Paul's online notes - Calculus I - Limits - Limits At Infinity, Part I](https://tutorial.math.lamar.edu/Classes/CalcI/LimitsAtInfinityI.aspx)

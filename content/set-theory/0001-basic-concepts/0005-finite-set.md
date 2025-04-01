@@ -1,8 +1,8 @@
 # Finite set
 
-## Definition
+## Informal definition
 
-Informal definition: Finite set is the one that is not infinite
+Finite set is the one that is not infinite
 
 $$
 F = \\{x | x \in \mathbb{N} \land x \lt 10^8\\}

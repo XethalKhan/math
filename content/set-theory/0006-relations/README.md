@@ -28,6 +28,10 @@
 
 [Read more](./0007-domain-and-range-of-relation.md)
 
-8. Relation inverse
+## 8. Relation inverse
 
 [Read more](./0008-relation-inverse.md)
+
+## 9. Basic properties of relation inverse
+
+[Read more](./0009-basic-properties-of-relation-inverse.md)

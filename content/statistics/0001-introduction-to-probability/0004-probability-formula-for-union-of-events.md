@@ -3,31 +3,31 @@
 For any events A and B,
 
 $$
-\mathbb{P}(A \cup B) = \mathbb{P}(A) + \mathbb{P}(B) − \mathbb{P}(AB)
+\mathbb{P}(A \cup B) = \mathbb{P}(A) + \mathbb{P}(B) − \mathbb{P}(A \cap B)
 $$
 
 ## Proof
 
-Write $A \cup B = (AB') \cup (AB) \cup (A'B)$ and note that these events are **disjoint**. Hence, making repeated use of the fact that $\mathbb{P}$ is additive for disjoint events, we see that
+Write $A \cup B = (A \cap B') \cup (A \cap B) \cup (A' \cap B)$ and note that these events are **disjoint**. Hence, making repeated use of the fact that $\mathbb{P}$ is additive for disjoint events, we see that
 
 $$
-\mathbb{P}(A \cup B) = \mathbb{P}((AB') \cup (AB) \cup (A'B))
-$$
-
-$$
-= \mathbb{P}(AB') + \mathbb{P}(AB) + \mathbb{P}(A'B)
+\mathbb{P}(A \cup B) = \mathbb{P}((A \cap B') \cup (A \cap B) \cup (A' \cap B))
 $$
 
 $$
-= \mathbb{P}(AB') + \mathbb{P}(AB) + \mathbb{P}(A'B) + \mathbb{P}(AB) − \mathbb{P}(AB)
+= \mathbb{P}(A \cap B') + \mathbb{P}(A \cap B) + \mathbb{P}(A' \cap B)
 $$
 
 $$
-= \mathbb{P}((AB') \cup (AB)) + \mathbb{P}((A'B) \cup (AB)) − \mathbb{P}(AB)
+= \mathbb{P}(A \cap B') + \mathbb{P}(A \cap B) + \mathbb{P}(A' \cap B) + \mathbb{P}(A \cap B) − \mathbb{P}(A \cap B)
 $$
 
 $$
-= \mathbb{P}(A) + \mathbb{P}(B) − \mathbb{P}(AB)
+= \mathbb{P}((A \cap B') \cup (A \cap B)) + \mathbb{P}((A' \cap B) \cup (A \cap B)) − \mathbb{P}(A \cap B)
+$$
+
+$$
+= \mathbb{P}(A) + \mathbb{P}(B) − \mathbb{P}(A \cap B)
 $$
 
 ## Reference

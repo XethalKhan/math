@@ -2,7 +2,7 @@
 
 If $p(x)$ is a propositional function with variable $x$ and domain of discourse $U$, then:
 
-The sentence **for all** $x, p(x)$, symbolized $(\forall x)(p(x))$, is a **proposition** that is true if and only if the **truth set** $P$ of $p(X)$ equals $U$.
+The sentence **for all** $x, p(x)$, symbolized $(\forall x)(p(x))$, is a **proposition** that is true if and only if the **truth set** $P$ of $p(x)$ equals $U$.
 
 $$
 (\forall x)(x^2 \gt 0) = T
@@ -31,7 +31,7 @@ $$
 $$
 
 $$
-\neg((\forall n)(p(n))) = T \text{ since } (\forall n)(\neg p(n)) = F
+\neg((\forall n)(p(n))) = T \text{ since } (\forall n)(p(n)) = F
 $$
 
 $$

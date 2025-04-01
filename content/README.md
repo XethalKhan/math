@@ -10,6 +10,10 @@
 
 [Read more](./linear-algebra/README.md)
 
+## 6. Trigonometry
+
+[Read more](./trigonometry/README.md)
+
 ## 6. Calculus
 
 [Read more](./calculus/README.md)

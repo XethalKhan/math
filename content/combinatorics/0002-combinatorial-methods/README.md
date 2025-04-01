@@ -19,3 +19,11 @@
 ## 5. Binomial coefficient
 
 [Read more](./0005-binomial-coefficient.md)
+
+## 6. Pascals rule
+
+[Read more](./0006-pascals-rule.md)
+
+## 7. Binomial theorem
+
+[Read more](./0007-binomial-theorem.md)

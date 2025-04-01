@@ -5,7 +5,7 @@ Given the functions $f(x)$ and $g(x)$ suppose we have,
 $$
 \lim\limits_{x \rightarrow c} f(x) = \infty
 \\;\\;\\;
-\lim\limits_{x \rightarrow c} f(x) = L
+\lim\limits_{x \rightarrow c} g(x) = L
 $$
 
 for some real numbers $c$ and $L$. Then,
@@ -26,7 +26,7 @@ $$
 \lim\limits_{x \rightarrow c} \frac{g(x)}{f(x)} = 0
 $$
 
-Note as well that the above set of facts also holds for one-sided limits. They will also hold if $$\lim\limits_{x \rightarrow c} f(x) = − \infty$, with a change of sign on the infinities in the first three parts.
+Note as well that the above set of facts also holds for one-sided limits. They will also hold if $\lim\limits_{x \rightarrow c} f(x) = − \infty$, with a change of sign on the infinities in the first three parts.
 
 ## Reference
 

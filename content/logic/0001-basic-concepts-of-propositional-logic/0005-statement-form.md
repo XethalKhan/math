@@ -1,6 +1,6 @@
 # Statement form
 
-When dealing with expressions such as $\neg p, p \land q \text{ and } p \lor \neg q$, ina case where $p$ and $q$ are variables representing unknown statements with unknown truth values, we refer to these expressions as **statement forms**.
+When dealing with expressions such as $\neg p, p \land q \text{ and } p \lor \neg q$, in a case where $p$ and $q$ are variables representing unknown statements with unknown truth values, we refer to these expressions as **statement forms**.
 
 A statement form becomes a statement when in a specific statement is substituted each of its unknowns (the latter sometimes referred to as components). As it stands, a statement form is neither true nor false; indeed our immediate interest is to determine under what truth conditions a given statement form is true and when it is false.
 

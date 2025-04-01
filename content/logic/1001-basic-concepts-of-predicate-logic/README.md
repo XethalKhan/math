@@ -53,3 +53,7 @@ Beginner friendly introduction.
 ## 12. Equivalences involving compound predicates
 
 [Read more](./0012-equivalences-with-compound-predicates.md)
+
+## 13. Implications with compound predicates
+
+[Read more](./0013-implications-with-compound-predicates.md)

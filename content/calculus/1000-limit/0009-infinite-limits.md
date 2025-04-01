@@ -53,7 +53,7 @@ $$
 if for every number $N \gt 0$ there is some number $\delta \gt 0$ such that
 
 $$
-f(x) \gt N
+f(x) \lt N
 \\;\\;\\;
 \text{ whenever }
 \\;\\;\\;

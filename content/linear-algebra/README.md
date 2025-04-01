@@ -8,26 +8,43 @@
     3. Vector operations - vector specific
     4. Vector spaces ("Introduction to vectors") - general
 
-## 1. Systems of Linear Equations, their matrix representation and solving
+## System of equaltions
+
+### 1. Systems of Linear Equations, their matrix representation and solving
 
 [Read more](./0001-systems-of-linear-equations/README.md)
 
-## 2. Types of Solution Sets
+### 2. Types of Solution Sets
 
 [Read more](./0002-types-of-solution-sets/README.md)
 
-## 3. Homogeneous system of equations
+### 3. Homogeneous system of equations
 
 [Read more](./0003-homogeneous-system-of-equations/README.md)
 
-## 4. Nonsingular matrix
+### 4. Nonsingular matrix
 
 [Read more](./0004-nonsingular-matrix/README.md)
-
 
 ## 10. Introduction to vectors
 
 [Read more](./0010-introduction-to-vectors/README.md)
+
+## 11. Orthogonality
+
+[Read more](./0011-orthogonality/README.md)
+
+## 20. Matrix operations
+
+[Read more](./0020-matrix-operations/README.md)
+
+## 21. Matrix Multiplication
+
+[Read more](./0021-matrix-multiplication/README.md)
+
+## 24. Mstrix inverse
+
+[Read more](./0024-matrix-inverse/README.md)
 
 ## 50. Vector spaces
 
@@ -52,3 +69,11 @@
 ## 55. Bases
 
 [Read more](./0055-bases/README.md)
+
+## 100. Elementary matrices
+
+[Read more](./0100-elementary-matrices/README.md)
+
+## 101. Determinants
+
+[Read more](./0101-determinants/README.md)
