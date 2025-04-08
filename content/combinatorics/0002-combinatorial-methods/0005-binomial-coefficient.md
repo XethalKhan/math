@@ -13,6 +13,14 @@ $$
 
 where $n!$ denotes the [**factorial**](./0001-factorial.md) of $n$.
 
+## Corollary
+
+For any natural number $n$, we have
+
+$$
+\sum^{n}_{r = 0} \binom{n}{r} = 2^{n}
+$$
+
 ## Reference
 
 1. Joy Morris *Combinatorics* (page 27)

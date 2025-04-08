@@ -1,4 +1,4 @@
-# Continuity of probabilities
+# Continuity of probability function
 
 If $A_n \rightarrow A$ then $\mathbb{P}(A_n) \rightarrow \mathbb{P}(A)$ as $n \rightarrow \infty$.
 

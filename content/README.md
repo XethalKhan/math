@@ -22,7 +22,13 @@
 
 [Read more](./combinatorics/README.md)
 
-## 20. Statistics
+# Statistics
 
-[Read more](./statistics/README.md)
+## 20. Probability
+
+[Read more](./probability/README.md)
+
+## 21. Statistical inference
+
+[Read more](./statistical-inference/README.md)
 

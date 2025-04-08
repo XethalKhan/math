@@ -48,6 +48,16 @@ $$
 = 1 - (\frac{1}{2})^{10} \approx .999.
 $$
 
+## Note
+
+Conditioning on an event that is independent of $A$ does not modify the probability of $A$
+
+$$
+\mathbb{P}(A | B) = \frac{\mathbb{P}(A) \mathbb{P}(B)}{\mathbb{P}(B)} = \mathbb{P}(A)
+$$
+
+On the other hand, two disjoint events cannot occur simultaneously and should therefore be dependent. Indeed, in this case $\mathbb{P}(A | B) = 0 \neq \mathbb{P}(A)$ (assuming that $\mathbb{P}(A)$ and $\mathbb{P}(B)$ are non-zero).
+
 ## Summary
 
 1. $A$ and $B$ are independent if and only if $\mathbb{P}(A B) = \mathbb{P}(A) \mathbb{P}(B)$.
@@ -57,3 +67,4 @@ $$
 ## Reference
 
 1. Larry Wasserman **All of statistics** (page 8, 9, 10)
+2. [Probability - The analysis of data - Volume 1 - 1.5. Conditional Probability and Independence](http://theanalysisofdata.com/probability/1_5.html)

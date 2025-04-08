@@ -18,4 +18,4 @@ It is important to note that not all functions will have critical points!
 
 ## Reference
 
-1. [Paul's online notes - Calculus I - Derivatives - Critical Points](https://tutorial.math.lamar.edu/Classes/CalcI/CriticalPoints.aspx)
+1. [Paul's online notes - Calculus I - Application of Derivatives - Critical Points](https://tutorial.math.lamar.edu/Classes/CalcI/CriticalPoints.aspx)

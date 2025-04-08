@@ -35,3 +35,7 @@
 ## 9. Functions
 
 [Read more](./0009-functions/README.md)
+
+## 10. Cardinal number of sets
+
+[Read more](./0010-cardinal-number-of-sets/README.md)

@@ -31,3 +31,17 @@
 ### 1003. Integrals
 
 [Read more](./1003-integrals/README.md)
+
+## Calculus 2
+
+### 2000. Integration techniques
+
+[Read more](./2000-integration-techniques/README.md)
+
+### 2001. Application of integrals
+
+[Read more](./2001-application-of-integrals/README.md)
+
+### 2002. Parametric equations and polar coordinates
+
+[Read more](./2002-parametric-equations-and-polar-coordinates/README.md)
