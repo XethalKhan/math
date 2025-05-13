@@ -8,7 +8,7 @@ For “important” vector spaces, it will be convenient to have a collection of
 
 ## Proof
 
-We must show that the set $B$ is both **linearly independent** and a **spanning set** for $\mathbb{C}^m$. First, the vectors in $B$ are, by Definition **Standard Unit Vector**, the columns of the **identity matrix**, which we know is **nonsingular** (since it row-reduces to the identity matrix, see Theorem **Nonsingular matrices row reduce to identity matrices**). And the columns of a nonsingular matrix are linearly independent by Theorem NMLIC.
+We must show that the set $B$ is both **linearly independent** and a **spanning set** for $\mathbb{C}^m$. First, the vectors in $B$ are, by Definition **Standard Unit Vector**, the columns of the **identity matrix**, which we know is **nonsingular** (since it row-reduces to the identity matrix, see Theorem **Nonsingular matrices row reduce to identity matrices**). And the columns of a nonsingular matrix are linearly independent by Theorem **Nonsingular Matrices have Linearly Independent Columns**.
 
 Suppose we grab an arbitrary vector from $\mathbb{C}^m$, say
 
@@ -72,8 +72,6 @@ v = v_1 e_1 + v_2 e_2 + v_3 e_3 + \dots + v_m e_m
 $$
 
 This shows that $\mathbb{C}^m \subseteq ⟨B⟩$, which is sufficient to show that $B$ is a **spanning set** for $\mathbb{C}^m$.
-
-## TODO - Rename NMLIC for linear independence claim
 
 ## Reference
 

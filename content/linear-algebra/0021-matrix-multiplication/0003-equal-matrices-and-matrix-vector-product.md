@@ -7,7 +7,7 @@ Suppose that $A$ and $B$ are $m \times n$ matrices such that $A x = B x$ for eve
 We are assuming $A x = B x$ for all $x \in \mathbb{C}^{n}$, so we can employ this equality for any choice of the vector $x$. However, we will limit our use of this equality to the **standard unit vectors**, $e_j, 1 \leq j \leq n$. For all $1 \leq j \leq n, 1 \leq i \leq m$,
 
 $$
-[A]_{ij} = [A]_{i 1} + \dots + 0 [A]_{i, j - 1} + 1 [A]_{ij} + 0 [A]_{i, j + 1} + \dots + 0 [A]_{i n}
+[A]_{ij} = 0 [A]_{i 1} + \dots + 0 [A]_{i, j - 1} + 1 [A]_{ij} + 0 [A]_{i, j + 1} + \dots + 0 [A]_{i n}
 $$
 
 $$

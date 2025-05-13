@@ -19,3 +19,7 @@
 ## 5. Matrix conjugation and transposes
 
 [Read more](./0005-matrix-conjugation-and-transposes.md)
+
+## 6. Matrix multiplication and complex conjugate
+
+[Read more](./0006-matrix-multiplication-and-complex-conjugate.md)

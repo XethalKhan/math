@@ -41,3 +41,11 @@
 ## 10. $\mathbb{N} \preceq \mathbb{R}$
 
 [Read more](./0010-n-less-than-r.md)
+
+## 11. Cantor-Bernstein-Schröder Theorem
+
+[Read more](./0011-cantor-bernstein-schroder-theorem.md)
+
+## 12. $2^{\aleph_0} = c$
+
+[Read more](./0012-2-aleph-o-equal-c.md)

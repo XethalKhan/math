@@ -18,7 +18,7 @@ $$
 \mathbb{E}(X) = \mathbb{E}X = \int \\; x \\; dF(x) = \mu = \mu_{X}
 $$
 
-The expectation is a one-number summary of the distribution. Think of $\mathbb{E}(X)$ as the average $\frac{\sum^{n}_{i = 1} X_{i}}{n}$ of a large number of **IID** draws $X_1, \dots , X_{n}$. The fact that $\mathbb{E}(X) \approx \frac{\sum^{n}_{i = 1} X_{i}}{n}$ is actually more than a heuristic; it is a theorem called the **law of large numbers** that we will discuss later.
+The expectation is a one-number summary of the distribution. Think of $\mathbb{E}(X)$ as the average $\frac{\displaystyle\sum^{n}_{i = 1} X_{i}}{n}$ of a large number of **IID** draws $X_1, \dots , X_{n}$. The fact that $\mathbb{E}(X) \approx \frac{\displaystyle\sum^{n}_{i = 1} X_{i}}{n}$ is actually more than a heuristic; it is a theorem called the **law of large numbers** that we will discuss later.
 
 To ensure that $\mathbb{E}(X)$ is well defined, we say that $\mathbb{E}(X)$ exists if $\int_{x} |x| dF_{X}(x) \lt \infty$. Otherwise we say that the expectation does not exist.
 

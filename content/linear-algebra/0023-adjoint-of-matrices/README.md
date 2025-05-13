@@ -15,3 +15,7 @@
 ## 4. Adjoint of an adjoint
 
 [Read more](./0004-adjoint-of-an-adjoint.md)
+
+## 5. Matrix multiplication and adjoints
+
+[Read more](./0005-matrix-multiplication-and-adjoints.md)
